@@ -1,0 +1,2 @@
+# Animatronic-Hand
+This is a project done in association with Skyfilabs, Bangalore, India. This is an animatronic hand, wherein a model hand is interfaced with a glove having flex sensors. The sensor senses the bending value and relays it to the model hand. As a result, the odel hand bends accordingly, which causes co-ordinated movement between the model hand and the hand of the person wearing the glove.
